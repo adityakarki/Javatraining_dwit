@@ -27,8 +27,11 @@ public class StudentInformation {
             Scanner sc = new Scanner(System.in);
 
             System.out.println("Enter name");
-
             info.name = sc.nextLine();
+            information[i]=info;
+
+            System.out.println("Enter address");
+            info.address = sc.nextLine();
             information[i]=info;
         }
 
