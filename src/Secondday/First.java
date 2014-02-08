@@ -9,8 +9,4 @@ public class First {
 
     }
 
-    //public void printInformation() {
-      //  System.out.println("This is first program");
-    //}
 }
-

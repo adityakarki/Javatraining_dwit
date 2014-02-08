@@ -5,6 +5,7 @@ package Secondday;
  */
 public class PrintInformation {
 
+    // using Method
     public void printInformation() {
       System.out.println("This is first program");
     }

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736b9a91-e1ec-49cf-8a5c-8e9545bafc78" name="Default" comment="" />
+    <list default="true" id="736b9a91-e1ec-49cf-8a5c-8e9545bafc78" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Secondday/First.java" afterPath="$PROJECT_DIR$/src/Secondday/First.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Secondday/FirstTwo.java" afterPath="$PROJECT_DIR$/src/Secondday/FirstTwo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Secondday/PrintInformation.java" afterPath="$PROJECT_DIR$/src/Secondday/PrintInformation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Java_dwit.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,22 +69,15 @@
     <favorites_list name="Java_dwit" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="JavaMethod.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.19933555" vertical-offset="0" max-vertical-offset="602">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -86,8 +85,6 @@
         <option value="$PROJECT_DIR$/src/Firstday/MyInformation.java" />
         <option value="$PROJECT_DIR$/src/Secondday/ConstantandVariables.java" />
         <option value="$PROJECT_DIR$/src/Secondday/printInformation.java" />
-        <option value="$PROJECT_DIR$/src/Secondday/First.java" />
-        <option value="$PROJECT_DIR$/src/Secondday/FirstTwo.java" />
         <option value="$PROJECT_DIR$/src/Secondday/FirstThree.java" />
         <option value="$PROJECT_DIR$/src/Secondday/ConsoleInput.java" />
         <option value="$PROJECT_DIR$/src/Assignment01/ConsoleInputAssignment.java" />
@@ -102,15 +99,11 @@
         <option value="$PROJECT_DIR$/src/Thirdday/Student/Information.java" />
         <option value="$PROJECT_DIR$/src/Thirdday/Student/JavaMethod.java" />
         <option value="$PROJECT_DIR$/src/Thirdday/Student/StudentInformation.java" />
-        <option value="$PROJECT_DIR$/src/Assignment02/StudentNumber.java" />
         <option value="$PROJECT_DIR$/src/Assignment02/PrintInformation.java" />
         <option value="$PROJECT_DIR$/src/test/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/DecisionMaking/Decision.java" />
         <option value="$PROJECT_DIR$/src/DecisionMaking/DecisionTwo.java" />
         <option value="$PROJECT_DIR$/src/DecisionMaking/DecisionTwoNaya.java" />
-        <option value="$PROJECT_DIR$/src/Assignment02/Information.java" />
-        <option value="$PROJECT_DIR$/src/Assignment02/JavaMethod.java" />
-        <option value="$PROJECT_DIR$/src/Assignment02/StudentInformation.java" />
         <option value="$PROJECT_DIR$/src/DecisionTwo/Information.java" />
         <option value="$PROJECT_DIR$/src/DecisionTwo/StudentInformation.java" />
         <option value="$PROJECT_DIR$/src/DecisionTwo/Student.java" />
@@ -129,6 +122,13 @@
         <option value="$PROJECT_DIR$/src/DayFour/GetAndPrintInformation.java" />
         <option value="$PROJECT_DIR$/src/DayFour/JavaMethod.java" />
         <option value="$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java" />
+        <option value="$PROJECT_DIR$/src/Secondday/PrintInformation.java" />
+        <option value="$PROJECT_DIR$/src/Secondday/FirstTwo.java" />
+        <option value="$PROJECT_DIR$/src/Secondday/First.java" />
+        <option value="$PROJECT_DIR$/src/Assignment02/JavaMethod.java" />
+        <option value="$PROJECT_DIR$/src/Assignment02/StudentNumber.java" />
+        <option value="$PROJECT_DIR$/src/Assignment02/Information.java" />
+        <option value="$PROJECT_DIR$/src/Assignment02/StudentInformation.java" />
       </list>
     </option>
   </component>
@@ -137,7 +137,7 @@
     <option name="width" value="1366" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -219,24 +219,24 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="86" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="96" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="101" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1011" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="86" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="96" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="101" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1011" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
-  <component name="RunManager" selected="Application.JavaMethod (3)">
-    <configuration default="false" name="JavaMethod (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecisionTwo.JavaMethod" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_dwit" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.JavaMethod (4)">
     <configuration default="false" name="JavaMethod (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecisionAssignment.JavaMethod" />
       <option name="VM_PARAMETERS" />
@@ -287,6 +287,22 @@
     </configuration>
     <configuration default="false" name="JavaMethod (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayFour.JavaMethod" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_dwit" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JavaMethod (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment02.JavaMethod" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -452,19 +468,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.JavaMethod" />
-      <item index="1" class="java.lang.String" itemvalue="Application.JavaMethod (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.JavaMethod (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SwitchStatement" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CollegeInformation" />
-      <item index="5" class="java.lang.String" itemvalue="Application.JavaMethod (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JavaMethod (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SwitchStatement" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CollegeInformation" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JavaMethod (3)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.JavaMethod (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.JavaMethod (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CollegeInformation" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SwitchStatement" />
-        <item index="3" class="java.lang.String" itemvalue="Application.JavaMethod (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.JavaMethod (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.JavaMethod (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JavaMethod (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CollegeInformation" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SwitchStatement" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JavaMethod (1)" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -501,7 +517,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -512,19 +528,19 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940828" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.354067" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25377643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33811802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25377643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33811802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="101" y="152" width="1166" height="544" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.354067" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -576,24 +592,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Assignment02/StudentInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="22" selection-start="860" selection-end="860" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="840" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment02/Information.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="49" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="345" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment02/StudentNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="2" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="465" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment02/PrintInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="2" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thirdday/Student/JavaMethod.java">
@@ -641,11 +642,6 @@
         <state line="12" column="0" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Firstday/MyInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="322" selection-end="322" vertical-scroll-proportion="0.42154565" vertical-offset="0" max-vertical-offset="427" />
-      </provider>
-    </entry>
     <entry file="jar:///usr/local/java/jdk1.7.0_51/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="319" column="18" selection-start="13378" selection-end="13378" vertical-scroll-proportion="0.0" vertical-offset="4260" max-vertical-offset="39480">
@@ -656,33 +652,6 @@
     <entry file="jar:///usr/local/java/jdk1.7.0_51/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="266" column="0" selection-start="8844" selection-end="8844" vertical-scroll-proportion="0.9240506" vertical-offset="3070" max-vertical-offset="17640" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Secondday/First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="18" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Secondday/PrintInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="190" selection-end="190" vertical-scroll-proportion="0.42525774" vertical-offset="0" max-vertical-offset="388">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Secondday/FirstThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="23" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment01/Newfucnt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="31" selection-start="149" selection-end="222" vertical-scroll-proportion="0.42525774" vertical-offset="0" max-vertical-offset="388" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment01/InputInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="470" selection-end="470" vertical-scroll-proportion="0.92783505" vertical-offset="0" max-vertical-offset="525" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thirdday/Student/JavaMethod.java">
@@ -700,36 +669,6 @@
         <state line="4" column="27" selection-start="91" selection-end="91" vertical-scroll-proportion="0.09966777" vertical-offset="0" max-vertical-offset="602" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Secondday/ConsoleInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="101" selection-end="101" vertical-scroll-proportion="0.1744186" vertical-offset="0" max-vertical-offset="602" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thirdday/Information.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="72" selection-end="72" vertical-scroll-proportion="0.12931034" vertical-offset="0" max-vertical-offset="580" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thirdday/JavaMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.20689656" vertical-offset="0" max-vertical-offset="580" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thirdday/PrintInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="31" selection-start="415" selection-end="415" vertical-scroll-proportion="0.42931035" vertical-offset="6" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment02/PrintInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="2" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment02/StudentNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="2" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DecisionMaking/DecisionTwoNaya.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="41" selection-start="275" selection-end="275" vertical-scroll-proportion="0.32474226" vertical-offset="54" max-vertical-offset="1035" />
@@ -743,28 +682,6 @@
     <entry file="file://$PROJECT_DIR$/src/DecisionMaking/Decision.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="58" selection-start="447" selection-end="447" vertical-scroll-proportion="0.5798969" vertical-offset="0" max-vertical-offset="388" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment02/Information.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="90" selection-end="90" vertical-scroll-proportion="0.14950167" vertical-offset="0" max-vertical-offset="602" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment02/JavaMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="307" selection-end="307" vertical-scroll-proportion="0.2740864" vertical-offset="0" max-vertical-offset="602" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment02/StudentInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="161" selection-end="161" vertical-scroll-proportion="-0.53968257" vertical-offset="369" max-vertical-offset="795" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Secondday/FirstTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="25" selection-start="257" selection-end="257" vertical-scroll-proportion="0.515873" vertical-offset="0" max-vertical-offset="378">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DecisionTwo/JavaMethod.java">
@@ -858,9 +775,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Secondday/FirstThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="23" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Secondday/PrintInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="373">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Secondday/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="373">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Firstday/MyInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="0" selection-end="322" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.19933555" vertical-offset="0" max-vertical-offset="602">
+        <state line="4" column="3" selection-start="66" selection-end="66" vertical-scroll-proportion="0.15189873" vertical-offset="0" max-vertical-offset="395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Secondday/FirstTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="336" selection-end="336" vertical-scroll-proportion="0.56962025" vertical-offset="0" max-vertical-offset="395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment01/Newfucnt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment01/InputInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="476" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Secondday/ConsoleInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.5316456" vertical-offset="0" max-vertical-offset="395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thirdday/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="0" selection-end="145" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thirdday/JavaMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="0" selection-end="288" vertical-scroll-proportion="0.4556962" vertical-offset="0" max-vertical-offset="395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thirdday/PrintInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="0" selection-end="900" vertical-scroll-proportion="0.5924051" vertical-offset="6" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment02/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="0" selection-end="142" vertical-scroll-proportion="0.23195876" vertical-offset="0" max-vertical-offset="388">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment02/StudentInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="32" selection-start="0" selection-end="1089" vertical-scroll-proportion="0.9201031" vertical-offset="153" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment02/JavaMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="0" selection-end="382" vertical-scroll-proportion="0.6958763" vertical-offset="0" max-vertical-offset="388">
           <folding />
         </state>
       </provider>

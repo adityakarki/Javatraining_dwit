@@ -5,8 +5,8 @@ package Secondday;
  */
 public class FirstTwo {
     public static void main (String args[]){
-        FirstTwo f = new FirstTwo();
-        f.circleArea();
+        FirstTwo f = new FirstTwo(); //creating object
+        f.circleArea(); //method call
 
 
     }
