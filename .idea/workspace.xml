@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736b9a91-e1ec-49cf-8a5c-8e9545bafc78" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Secondday/First.java" afterPath="$PROJECT_DIR$/src/Secondday/First.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Secondday/FirstTwo.java" afterPath="$PROJECT_DIR$/src/Secondday/FirstTwo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Secondday/PrintInformation.java" afterPath="$PROJECT_DIR$/src/Secondday/PrintInformation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="736b9a91-e1ec-49cf-8a5c-8e9545bafc78" name="Default" comment="Changes and assignment on marks">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java" afterPath="$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java_dwit.iws" />
@@ -69,7 +66,35 @@
     <favorites_list name="Java_dwit" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="JavaMethod.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="27" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Marks.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/Marks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="49" selection-start="458" selection-end="458" vertical-scroll-proportion="0.6851852" vertical-offset="56" max-vertical-offset="1035">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Information.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/Information.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="15" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -121,7 +146,6 @@
         <option value="$PROJECT_DIR$/src/DayFour/TeacherInformation.java" />
         <option value="$PROJECT_DIR$/src/DayFour/GetAndPrintInformation.java" />
         <option value="$PROJECT_DIR$/src/DayFour/JavaMethod.java" />
-        <option value="$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java" />
         <option value="$PROJECT_DIR$/src/Secondday/PrintInformation.java" />
         <option value="$PROJECT_DIR$/src/Secondday/FirstTwo.java" />
         <option value="$PROJECT_DIR$/src/Secondday/First.java" />
@@ -129,6 +153,9 @@
         <option value="$PROJECT_DIR$/src/Assignment02/StudentNumber.java" />
         <option value="$PROJECT_DIR$/src/Assignment02/Information.java" />
         <option value="$PROJECT_DIR$/src/Assignment02/StudentInformation.java" />
+        <option value="$PROJECT_DIR$/src/SwitchAssignment/Information.java" />
+        <option value="$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java" />
+        <option value="$PROJECT_DIR$/src/SwitchAssignment/Marks.java" />
       </list>
     </option>
   </component>
@@ -144,7 +171,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -164,7 +191,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,8 +223,81 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_dwit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_dwit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SwitchAssignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_dwit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_dwit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DecisionMaking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_dwit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_dwit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DecisionAssignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_dwit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_dwit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DayFour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,23 +335,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1011" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
-  <component name="RunManager" selected="Application.JavaMethod (4)">
-    <configuration default="false" name="JavaMethod (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecisionAssignment.JavaMethod" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_dwit" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.JavaMethod (2)">
     <configuration default="false" name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DayFour.SwitchStatement" />
       <option name="VM_PARAMETERS" />
@@ -303,6 +386,22 @@
     </configuration>
     <configuration default="false" name="JavaMethod (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment02.JavaMethod" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_dwit" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JavaMethod (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchAssignment.JavaMethod" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -468,19 +567,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.JavaMethod" />
-      <item index="1" class="java.lang.String" itemvalue="Application.JavaMethod (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SwitchStatement" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CollegeInformation" />
-      <item index="4" class="java.lang.String" itemvalue="Application.JavaMethod (3)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.JavaMethod (4)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SwitchStatement" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CollegeInformation" />
+      <item index="3" class="java.lang.String" itemvalue="Application.JavaMethod (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JavaMethod (4)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.JavaMethod (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.JavaMethod (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JavaMethod (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CollegeInformation" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SwitchStatement" />
-        <item index="4" class="java.lang.String" itemvalue="Application.JavaMethod (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.JavaMethod (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JavaMethod (4)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JavaMethod (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CollegeInformation" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SwitchStatement" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -513,30 +612,55 @@
       <created>1390991699232</created>
       <updated>1390991699232</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes and assignment on marks">
+      <created>1391969210123</created>
+      <updated>1391969210123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940828" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.354067" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.354067" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25377643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33811802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25377643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33811802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="101" y="152" width="1166" height="544" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -583,6 +707,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Changes and assignment on marks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes and assignment on marks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -592,6 +718,27 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/Marks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="15" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment02/Information.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="49" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="345" />
@@ -674,208 +821,168 @@
         <state line="12" column="41" selection-start="275" selection-end="275" vertical-scroll-proportion="0.32474226" vertical-offset="54" max-vertical-offset="1035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecisionMaking/DecisionTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="35" selection-start="352" selection-end="614" vertical-scroll-proportion="0.88917524" vertical-offset="0" max-vertical-offset="1125" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecisionMaking/Decision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="58" selection-start="447" selection-end="447" vertical-scroll-proportion="0.5798969" vertical-offset="0" max-vertical-offset="388" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DecisionTwo/JavaMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecisionAssignment/FindMonth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="37" selection-start="585" selection-end="585" vertical-scroll-proportion="0.92268044" vertical-offset="2" max-vertical-offset="525">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecisionAssignment/Month.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="117" selection-end="117" vertical-scroll-proportion="0.24" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DecisionAssignment/JavaMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="33" selection-start="202" selection-end="202" vertical-scroll-proportion="0.29900333" vertical-offset="0" max-vertical-offset="602">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayFour/SwitchStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="42" selection-start="542" selection-end="542" vertical-scroll-proportion="0.5481728" vertical-offset="0" max-vertical-offset="602">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="645" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DecisionTwo/CollegeInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="203" selection-end="203" vertical-scroll-proportion="0.40983605" vertical-offset="0" max-vertical-offset="366">
-          <folding />
-        </state>
+        <state line="10" column="16" selection-start="203" selection-end="203" vertical-scroll-proportion="0.40983605" vertical-offset="0" max-vertical-offset="366" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DecisionTwo/StudentInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DecisionTwo/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="291" selection-end="2086" vertical-scroll-proportion="0.23195876" vertical-offset="120" max-vertical-offset="1065">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayFour/JavaMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="9" selection-start="982" selection-end="982" vertical-scroll-proportion="0.72259134" vertical-offset="0" max-vertical-offset="602">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayFour/GetAndPrintInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="57" selection-start="2896" selection-end="2896" vertical-scroll-proportion="0.72591364" vertical-offset="853" max-vertical-offset="1455">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayFour/TeacherInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="17" selection-start="170" selection-end="170" vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="602">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayFour/CollegeInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="17" selection-start="121" selection-end="177" vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="602">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DayFour/StudentInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="19" selection-start="191" selection-end="191" vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="602">
-          <folding />
-        </state>
+        <state line="14" column="3" selection-start="291" selection-end="2086" vertical-scroll-proportion="0.23195876" vertical-offset="120" max-vertical-offset="1065" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Secondday/FirstThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="23" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="480">
-          <folding />
-        </state>
+        <state line="16" column="23" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="480" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Secondday/PrintInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="373">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="373" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Secondday/First.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="373">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="373" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Firstday/MyInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="0" selection-end="322" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="395">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="3" selection-start="66" selection-end="66" vertical-scroll-proportion="0.15189873" vertical-offset="0" max-vertical-offset="395">
-          <folding />
-        </state>
+        <state line="5" column="13" selection-start="0" selection-end="322" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Secondday/FirstTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="25" selection-start="336" selection-end="336" vertical-scroll-proportion="0.56962025" vertical-offset="0" max-vertical-offset="395">
-          <folding />
-        </state>
+        <state line="15" column="25" selection-start="336" selection-end="336" vertical-scroll-proportion="0.56962025" vertical-offset="0" max-vertical-offset="395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment01/Newfucnt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="395">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment01/InputInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="476" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="476" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Secondday/ConsoleInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.5316456" vertical-offset="0" max-vertical-offset="395">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.5316456" vertical-offset="0" max-vertical-offset="395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thirdday/Information.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="0" selection-end="145" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="395">
-          <folding />
-        </state>
+        <state line="5" column="13" selection-start="0" selection-end="145" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thirdday/JavaMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="0" selection-end="288" vertical-scroll-proportion="0.4556962" vertical-offset="0" max-vertical-offset="395">
-          <folding />
-        </state>
+        <state line="12" column="1" selection-start="0" selection-end="288" vertical-scroll-proportion="0.4556962" vertical-offset="0" max-vertical-offset="395" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thirdday/PrintInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="0" selection-end="900" vertical-scroll-proportion="0.5924051" vertical-offset="6" max-vertical-offset="630">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="0" selection-end="900" vertical-scroll-proportion="0.5924051" vertical-offset="6" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment02/Information.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="0" selection-end="142" vertical-scroll-proportion="0.23195876" vertical-offset="0" max-vertical-offset="388">
-          <folding />
-        </state>
+        <state line="6" column="12" selection-start="0" selection-end="142" vertical-scroll-proportion="0.23195876" vertical-offset="0" max-vertical-offset="388" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment02/StudentInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="32" selection-start="0" selection-end="1089" vertical-scroll-proportion="0.9201031" vertical-offset="153" max-vertical-offset="840">
-          <folding />
-        </state>
+        <state line="34" column="32" selection-start="0" selection-end="1089" vertical-scroll-proportion="0.9201031" vertical-offset="153" max-vertical-offset="840" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment02/JavaMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="0" selection-end="382" vertical-scroll-proportion="0.6958763" vertical-offset="0" max-vertical-offset="388">
+        <state line="18" column="0" selection-start="0" selection-end="382" vertical-scroll-proportion="0.6958763" vertical-offset="0" max-vertical-offset="388" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayFour/CollegeInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="0" selection-end="181" vertical-scroll-proportion="0.33620688" vertical-offset="0" max-vertical-offset="580" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayFour/GetAndPrintInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="57" selection-start="0" selection-end="2907" vertical-scroll-proportion="0.72591364" vertical-offset="853" max-vertical-offset="1455" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayFour/TeacherInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="17" selection-start="0" selection-end="173" vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="602" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayFour/StudentInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="19" selection-start="0" selection-end="196" vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="602" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayFour/JavaMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="0" selection-end="993" vertical-scroll-proportion="0.3986711" vertical-offset="0" max-vertical-offset="602" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionMaking/Decision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="0" selection-end="466" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionMaking/DecisionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="35" selection-start="352" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionAssignment/Month.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="27" selection-start="0" selection-end="241" vertical-scroll-proportion="0.15280136" vertical-offset="0" max-vertical-offset="589" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionAssignment/FindMonth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="37" selection-start="0" selection-end="596" vertical-scroll-proportion="0.59800667" vertical-offset="0" max-vertical-offset="602" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionAssignment/JavaMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="33" selection-start="0" selection-end="324" vertical-scroll-proportion="0.29900333" vertical-offset="0" max-vertical-offset="602" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayFour/SwitchStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="23" selection-start="434" selection-end="434" vertical-scroll-proportion="0.47342193" vertical-offset="0" max-vertical-offset="602" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/JavaMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="27" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="15" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchAssignment/Marks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="49" selection-start="458" selection-end="458" vertical-scroll-proportion="0.6851852" vertical-offset="56" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
