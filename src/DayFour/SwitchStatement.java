@@ -14,11 +14,11 @@ public class SwitchStatement {
         String choice = sc.nextLine();
 
         switch(choice) {
-            case "1" : System.out.println("Entered value is 1");
-                break;
+            case "S" : System.out.println("Entered value is 1");
 
-            case "2" : System.out.println("Entered value is 2");
-                break;
+
+            case "T" : System.out.println("Entered value is 2");
+
 
             default: System.out.println("Invalid");
         }
